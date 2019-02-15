@@ -1,0 +1,89 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web);
+@font-face{
+	font-family: 'fontelogo';
+	src: url("../fonts-/bubblegum-sans-regular.otf");
+
+	font-family: 'fonte-titulo-home';
+	src: url("../fonts-/STENCIL.ttf");
+}
+
+body {
+	background-color: #EEEEEE;
+}
+
+p{
+	text-indent: 20px;
+}
+
+.divisor{
+	height: 520px;
+}
+
+a#font{
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 14pt;
+}
+
+a#font-1{
+	font-size: 20pt;
+	font-family: 'Titillium Web', sans-serif;
+	color: rgba(23,170,28,1);
+}
+
+a#font-2{
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 14pt;
+	left: 750px;
+}
+
+.espaco-topo-tabela{
+	margin-top: 60px;
+}
+
+.container--borda{
+	border-right: 1px solid green;
+}
+
+.borda{
+	border-right: 1px solid green;
+}
+
+.copy{
+	background-color: #222222;
+	padding: 2px;
+	margin-bottom: -40px;
+}
+
+.espaco-topo{
+	margin-top: 51px;
+}
+
+.h1-form{
+	font-family: "Titillium Web", sans-serif;
+}
+
+.h6-form{
+	font-family: "Titillium Web", sans-serif;
+	margin-bottom: -23px;
+}
+
+.espaco-topo-branco{
+	margin-top: 424px;
+}
+
+.espaco-form{
+	margin-top: 111px;
+	margin-left: 50px;
+}
+
+.espaco-conteudo{
+	margin-top: -60px;
+}
+
+.espaco-conteudo h1{
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 30pt;
+	text-align: center;
+	padding-bottom: 60px;
+	color: rgba(23,170,28,1);
+}
